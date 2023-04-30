@@ -19,6 +19,3 @@ def minarray(xs):
 
 u = minarray(data)
 print("[+] Min: " + str(u))
-
-
-
